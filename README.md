@@ -1,7 +1,9 @@
 Ever wanted to point out something specific in your world to a friend, but they always looked at something entirely
 different?
 
-Well now you can shoot them in the eyes with a laser pointer, blinding them because they clearly don't need those eyes.
+Well now you can shoot them in the eyes with a laser pointer, blinding them because they clearly don't need those eyes. And also use them to make it clear what you're trying to point at, but where's the fun in that?
+
+![A side-by-side showing a first-person view of a player using a red laser pointer to point at diamond ore. Also has RTX OFF and RTX ON on the respective images.](https://mod-assets.upcraft.dev/promo/laser-pointer/banner.png)
 
 ---
 
