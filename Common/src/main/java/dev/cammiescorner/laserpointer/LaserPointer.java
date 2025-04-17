@@ -14,7 +14,7 @@ public class LaserPointer implements MainEntryPoint {
 
     @Override
     public void onInitialize(ModContainer mod) {
-
+        // TODO register laser pointers
     }
 
     public static HitResult raycast(Entity origin, double maxDistance, boolean includeEntities, boolean includeFluids) {

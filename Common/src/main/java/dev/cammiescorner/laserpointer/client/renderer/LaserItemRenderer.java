@@ -1,4 +1,4 @@
-package dev.cammiescorner.laserpointer.fabric.client.renderer;
+package dev.cammiescorner.laserpointer.client.renderer;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import dev.cammiescorner.laserpointer.LaserPointer;
@@ -20,7 +20,7 @@ import net.minecraft.world.item.ItemStack;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.Executor;
 
-public class LaserItemRenderer  implements BuiltinItemRendererRegistry.DynamicItemRenderer, IdentifiableResourceReloadListener {
+public class LaserItemRenderer implements BuiltinItemRendererRegistry.DynamicItemRenderer, IdentifiableResourceReloadListener {
 	private final ResourceLocation id;
 	private final ResourceLocation itemId;
 	private ItemRenderer itemRenderer;

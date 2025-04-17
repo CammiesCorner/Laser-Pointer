@@ -1,6 +1,6 @@
 package dev.cammiescorner.laserpointer.fabric.mixin;
 
-import dev.cammiescorner.laserpointer.fabric.common.items.LaserPointerItem;
+import dev.cammiescorner.laserpointer.common.items.LaserPointerItem;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.client.renderer.ItemModelShaper;
 import net.minecraft.client.renderer.entity.ItemRenderer;

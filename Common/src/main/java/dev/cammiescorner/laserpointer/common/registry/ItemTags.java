@@ -1,4 +1,4 @@
-package dev.cammiescorner.laserpointer.fabric.common.registry;
+package dev.cammiescorner.laserpointer.common.registry;
 
 import dev.cammiescorner.laserpointer.LaserPointer;
 import net.minecraft.core.registries.Registries;

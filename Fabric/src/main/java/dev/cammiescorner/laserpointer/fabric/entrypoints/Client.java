@@ -1,21 +1,18 @@
 package dev.cammiescorner.laserpointer.fabric.entrypoints;
 
-import dev.cammiescorner.laserpointer.LaserPointer;
-import dev.cammiescorner.laserpointer.fabric.client.particles.LaserDotParticle;
-import dev.cammiescorner.laserpointer.fabric.client.renderer.LaserItemRenderer;
-import dev.cammiescorner.laserpointer.fabric.common.items.LaserPointerItem;
-import dev.cammiescorner.laserpointer.fabric.common.registry.ModParticles;
+import dev.cammiescorner.laserpointer.client.particles.LaserDotParticle;
+import dev.cammiescorner.laserpointer.client.renderer.LaserItemRenderer;
+import dev.cammiescorner.laserpointer.common.items.LaserPointerItem;
+import dev.cammiescorner.laserpointer.common.registry.ModParticles;
 import dev.upcraft.sparkweave.api.annotation.CalledByReflection;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.model.loading.v1.ModelLoadingPlugin;
 import net.fabricmc.fabric.api.client.particle.v1.ParticleFactoryRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.BuiltinItemRendererRegistry;
 import net.fabricmc.fabric.api.resource.ResourceManagerHelper;
-import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.packs.PackType;
-import net.minecraft.world.inventory.InventoryMenu;
 import net.minecraft.world.item.Item;
 
 @CalledByReflection

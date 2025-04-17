@@ -1,8 +1,8 @@
-package dev.cammiescorner.laserpointer.fabric.common.items;
+package dev.cammiescorner.laserpointer.common.items;
 
 import dev.cammiescorner.laserpointer.LaserPointer;
-import dev.cammiescorner.laserpointer.fabric.common.registry.EntityTags;
-import dev.cammiescorner.laserpointer.fabric.common.registry.ModParticles;
+import dev.cammiescorner.laserpointer.common.registry.EntityTags;
+import dev.cammiescorner.laserpointer.common.registry.ModParticles;
 import net.minecraft.core.Vec3i;
 import net.minecraft.core.particles.ParticleOptions;
 import net.minecraft.world.InteractionHand;

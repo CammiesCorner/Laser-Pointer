@@ -1,13 +1,13 @@
-package dev.cammiescorner.laserpointer.fabric.common.registry;
+package dev.cammiescorner.laserpointer.common.registry;
 
 import dev.cammiescorner.laserpointer.LaserPointer;
-import dev.cammiescorner.laserpointer.fabric.common.items.LaserPointerItem;
+import dev.cammiescorner.laserpointer.common.items.LaserPointerItem;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.DyeColor;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.ItemStack;
+
 import java.util.LinkedHashMap;
 
 public class ModItems {
