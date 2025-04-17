@@ -19,7 +19,7 @@ import org.quiltmc.qsl.resource.loader.api.reloader.IdentifiableResourceReloader
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.Executor;
 
-public class LaserItemRenderer  implements BuiltinItemRendererRegistry.DynamicItemRenderer, IdentifiableResourceReloader {
+public class LaserItemRenderer implements BuiltinItemRendererRegistry.DynamicItemRenderer, IdentifiableResourceReloader {
 	private final Identifier id;
 	private final Identifier itemId;
 	private ItemRenderer itemRenderer;
