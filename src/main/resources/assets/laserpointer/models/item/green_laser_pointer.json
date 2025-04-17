@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:builtin/entity",
+	"base": {
+		"parent": "laserpointer:item/green_laser_pointer_handheld"
+	},
+	"perspectives": {
+		"gui": {
+			"parent": "laserpointer:item/green_laser_pointer_gui"
+		},
+		"fixed": {
+			"parent": "laserpointer:item/green_laser_pointer_gui"
+		}
+	}
+}

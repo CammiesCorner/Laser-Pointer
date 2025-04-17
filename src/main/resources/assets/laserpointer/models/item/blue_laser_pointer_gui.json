@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "laserpointer:item/blue_laser_pointer"
+	}
+}

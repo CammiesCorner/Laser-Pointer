@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "laserpointer",
+	"version": "${version}",
+	"name": "Laser Pointer",
+	"description": "Adds 5 laser pointers to... point at things and... blind your friends.",
+	"authors": [
+		"Cammie"
+	],
+	"contact": {
+		"homepage": "https://cammiescorner.dev/",
+		"sources": "https://github.com/CammiesCorner/Laser-Pointer",
+		"issues": "https://github.com/CammiesCorner/Laser-Pointer/issues"
+	},
+	"license": "https://github.com/CammiesCorner/Laser-Pointer/blob/HEAD/LICENSE.md",
+	"icon": "assets/laserpointer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.cammiescorner.laserpointer.LaserPointer"
+		],
+		"client": [
+			"dev.cammiescorner.laserpointer.client.LaserPointerClient"
+		]
+	},
+	"mixins": [
+		"laserpointer.mixins.json"
+	],
+	"accessWidener": "laserpointer.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "=1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

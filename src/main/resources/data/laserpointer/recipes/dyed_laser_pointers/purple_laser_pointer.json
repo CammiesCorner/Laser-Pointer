@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"tag": "laserpointer:laser_pointers"
+		},
+		{
+			"item": "minecraft:purple_dye"
+		}
+	],
+	"result": {
+		"item": "laserpointer:purple_laser_pointer"
+	}
+}

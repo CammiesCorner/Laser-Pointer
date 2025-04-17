@@ -1,4 +1,5 @@
-Ever wanted to point out something specific in your world to a friend, but they always looked at something entirely different?
+Ever wanted to point out something specific in your world to a friend, but they always looked at something entirely
+different?
 
 Well now you can shoot them in the eyes with a laser pointer, blinding them because they clearly don't need those eyes.
 

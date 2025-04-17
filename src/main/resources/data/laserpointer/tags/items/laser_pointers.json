@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"laserpointer:red_laser_pointer",
+		"laserpointer:green_laser_pointer",
+		"laserpointer:blue_laser_pointer",
+		"laserpointer:yellow_laser_pointer",
+		"laserpointer:purple_laser_pointer"
+	]
+}
