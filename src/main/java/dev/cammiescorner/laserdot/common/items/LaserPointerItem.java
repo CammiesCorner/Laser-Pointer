@@ -51,7 +51,7 @@ public class LaserPointerItem extends Item {
 			if(hitResult instanceof BlockHitResult blockHit)
 				vec = blockHit.getSide().getVector();
 			if(entityHit instanceof EntityHitResult entityHitResult && entityHitResult.getEntity().getType().isIn(EntityTags.THIN_ENTITIES))
-				offset += 0.0625;
+				offset += 0.0694;
 
 			Vec3d pos = hitResult.getPos().add(vec.getX() * offset, vec.getY() * offset, vec.getZ() * offset);
 			ParticleEffect particleEffect = switch(colour) {

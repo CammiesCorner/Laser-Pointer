@@ -23,8 +23,6 @@ public class LaserDot implements ModInitializer {
 
 	@Override
 	public void onInitialize(ModContainer mod) {
-		LOGGER.info("Hello Quilt world from {}!", mod.metadata().name());
-
 		ModItems.register();
 		ModParticles.register();
 
